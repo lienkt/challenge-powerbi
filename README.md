@@ -625,11 +625,9 @@ This repository contains:
 
 # 📷 Dashboard Preview
 
-Dashboard preview file:
+![RailPulse Dashboard Preview](reports/Railpulse-dashboard.png)
 
-[Open the dashboard preview PDF](reports/Railpulse-dashboard.pdf)
-
-Note: a PDF can be linked from the README, but it usually will not render inline like an image on GitHub. If you want the preview to appear directly in the README, export one page as PNG or JPG and embed that image instead.
+PDF version: [Open the dashboard PDF](reports/Railpulse-dashboard.pdf)
 
 ---
 
